@@ -59,5 +59,8 @@
 : See every change in the file and who altered it with the most recent change first.
 
 **git status**
-: Tells us the status of 
+: Tells us the status of the file.
+
+**clear**
+: Clears the terminal. This doesn't get rid of previous commands though, scroll up if you wish to see them.
 
